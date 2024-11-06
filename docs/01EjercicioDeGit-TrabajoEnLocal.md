@@ -12,7 +12,7 @@
    git init
    ```
 
-   ![image-20241025101620803](./01 Ejercicio de Git - trabajo en local.assets/image-20241025101620803.png)
+   ![image-20241025101620803](01 Ejercicio de Git - trabajo en local.assets/image-20241025101620803.png)
 
    ```bash
    git add .
